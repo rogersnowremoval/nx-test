@@ -1,4 +1,9 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "my": "libs/my",
+    "my-nest-app": "apps/my-nest-app",
+    "my-new-app": "apps/my-new-app",
+    "my-new-app-e2e": "apps/my-new-app-e2e"
+  }
 }
